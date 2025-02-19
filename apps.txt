@@ -1,0 +1,11 @@
+ Example entry in games.txt or apps.txt
+
+icon=
+banner=
+screenshot=
+screenshot2=
+apk=
+name=ERROR
+developer=
+description=
+---
